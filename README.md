@@ -1,12 +1,19 @@
-# Berufsorientierung--Material
+# Berufsorientierung-Material
 Berufsorientierung – Material für das praktische Kennenlernen von sechs Berufsfeldern
+
 Wir haben in der Zukunftswerkstatt Buchholz Material zu sechs verschiedenen Berufsfeldern erstellt. Dieses Material sind Arbeitsblätter und Anleitungen, die den Schüler:innen einen Einblick in mögliche Aufgaben in diesem Berufsfeld geben. Wir haben die Berufsorientierung mit Schüler:innen der weiterführenden Schulen (Jahrgang 8-10) durchgeführt. Je nach Lerngruppe kann mit dem Material eine Einheit von 4-6 Terminen (á 1,5h) gefüllt werden.
 Es handelt sich dabei um folgende sechs Berufsfelder:
+
 -Holzmechanik
+
 -Fachinformatik
+
 -Metalltechnik
+
 -Lagerlogistik
+
 -Elektrotechnik (Energie und Gebäude)
+
 -Elektrotechnik (Geräte und Systeme)
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
